@@ -1,0 +1,28 @@
+C:\Users\TUF F15\Downloads\efarmosmenhthema2\bin\Debug\net8.0\efarmosmenhthema2.exe
+C:\Users\TUF F15\Downloads\efarmosmenhthema2\bin\Debug\net8.0\efarmosmenhthema2.deps.json
+C:\Users\TUF F15\Downloads\efarmosmenhthema2\bin\Debug\net8.0\efarmosmenhthema2.runtimeconfig.json
+C:\Users\TUF F15\Downloads\efarmosmenhthema2\bin\Debug\net8.0\efarmosmenhthema2.dll
+C:\Users\TUF F15\Downloads\efarmosmenhthema2\bin\Debug\net8.0\efarmosmenhthema2.pdb
+C:\Users\TUF F15\Downloads\efarmosmenhthema2\obj\Debug\net8.0\efarmosmenhthema2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TUF F15\Downloads\efarmosmenhthema2\obj\Debug\net8.0\efarmosmenhthema2.AssemblyInfoInputs.cache
+C:\Users\TUF F15\Downloads\efarmosmenhthema2\obj\Debug\net8.0\efarmosmenhthema2.AssemblyInfo.cs
+C:\Users\TUF F15\Downloads\efarmosmenhthema2\obj\Debug\net8.0\efarmosmenhthema2.csproj.CoreCompileInputs.cache
+C:\Users\TUF F15\Downloads\efarmosmenhthema2\obj\Debug\net8.0\efarmosmenhthema2.dll
+C:\Users\TUF F15\Downloads\efarmosmenhthema2\obj\Debug\net8.0\refint\efarmosmenhthema2.dll
+C:\Users\TUF F15\Downloads\efarmosmenhthema2\obj\Debug\net8.0\efarmosmenhthema2.pdb
+C:\Users\TUF F15\Downloads\efarmosmenhthema2\obj\Debug\net8.0\efarmosmenhthema2.genruntimeconfig.cache
+C:\Users\TUF F15\Downloads\efarmosmenhthema2\obj\Debug\net8.0\ref\efarmosmenhthema2.dll
+C:\Users\Denni\Desktop\efarmosmenhthema2\bin\Debug\net8.0\efarmosmenhthema2.exe
+C:\Users\Denni\Desktop\efarmosmenhthema2\bin\Debug\net8.0\efarmosmenhthema2.deps.json
+C:\Users\Denni\Desktop\efarmosmenhthema2\bin\Debug\net8.0\efarmosmenhthema2.runtimeconfig.json
+C:\Users\Denni\Desktop\efarmosmenhthema2\bin\Debug\net8.0\efarmosmenhthema2.dll
+C:\Users\Denni\Desktop\efarmosmenhthema2\bin\Debug\net8.0\efarmosmenhthema2.pdb
+C:\Users\Denni\Desktop\efarmosmenhthema2\obj\Debug\net8.0\efarmosmenhthema2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denni\Desktop\efarmosmenhthema2\obj\Debug\net8.0\efarmosmenhthema2.AssemblyInfoInputs.cache
+C:\Users\Denni\Desktop\efarmosmenhthema2\obj\Debug\net8.0\efarmosmenhthema2.AssemblyInfo.cs
+C:\Users\Denni\Desktop\efarmosmenhthema2\obj\Debug\net8.0\efarmosmenhthema2.csproj.CoreCompileInputs.cache
+C:\Users\Denni\Desktop\efarmosmenhthema2\obj\Debug\net8.0\efarmosmenhthema2.dll
+C:\Users\Denni\Desktop\efarmosmenhthema2\obj\Debug\net8.0\refint\efarmosmenhthema2.dll
+C:\Users\Denni\Desktop\efarmosmenhthema2\obj\Debug\net8.0\efarmosmenhthema2.pdb
+C:\Users\Denni\Desktop\efarmosmenhthema2\obj\Debug\net8.0\efarmosmenhthema2.genruntimeconfig.cache
+C:\Users\Denni\Desktop\efarmosmenhthema2\obj\Debug\net8.0\ref\efarmosmenhthema2.dll

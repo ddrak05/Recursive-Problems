@@ -1,0 +1,4 @@
+C:\Users\Denni\Desktop\thema3\efarmosmenhthema3\obj\Debug\net8.0\thema3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denni\Desktop\thema3\efarmosmenhthema3\obj\Debug\net8.0\thema3.AssemblyInfoInputs.cache
+C:\Users\Denni\Desktop\thema3\efarmosmenhthema3\obj\Debug\net8.0\thema3.AssemblyInfo.cs
+C:\Users\Denni\Desktop\thema3\efarmosmenhthema3\obj\Debug\net8.0\thema3.csproj.CoreCompileInputs.cache
